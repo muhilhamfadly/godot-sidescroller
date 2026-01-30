@@ -1,4 +1,4 @@
-# [Nama Game Kamu]
+# Palm Adventure
 
 A 2D platformer game built with Godot Engine. Explore the world, defeat enemies, and master your movement skills.
 
@@ -32,8 +32,7 @@ This game uses assets and references from various talented creators:
 
 1.  Clone this repository.
 2.  Open **Godot Engine**.
-3.  Import the `project.godot` file.
+3.  Import the godot file.
 4.  Press **F5** or click the Play button to start the game.
 
----
-*Created by [Nama/Username Kamu]*
+
