@@ -22,7 +22,7 @@ The game supports keyboard input. Here are the controls:
 This game uses assets and references from various talented creators:
 
 * **Main Character:**
-    * Based on reference/tutorial by **James Make Games** on YouTube.
+    * Based on reference/tutorial by **James Makes Games** on YouTube.
 * **Goblin Enemy:**
     * Reference/Assets from **Craftpix.net** via Itch.io.
 * **Slime Enemy:**
@@ -30,7 +30,7 @@ This game uses assets and references from various talented creators:
 
 ## 🚀 How to Run
 
-1.  Clone this repository.
+1.  Download and extract this file.
 2.  Open **Godot Engine**.
 3.  Import the godot file.
 4.  Press **F5** or click the Play button to start the game.
