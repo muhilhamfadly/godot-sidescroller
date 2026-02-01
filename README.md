@@ -1,6 +1,6 @@
 # Palm Adventure
 
-A 2D platformer game built with Godot Engine. Explore the world, defeat enemies, and master your movement skills.
+A 2D platformer game built with Godot Engine. **This project was developed to fulfill a college assignment.** Explore the world, defeat enemies, and master your movement skills.
 
 ## 🎮 How to Play (Controls)
 
@@ -34,5 +34,3 @@ This game uses assets and references from various talented creators:
 2.  Open **Godot Engine**.
 3.  Import the godot file.
 4.  Press **F5** or click the Play button to start the game.
-
-
